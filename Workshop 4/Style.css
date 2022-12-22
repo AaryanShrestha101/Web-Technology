@@ -1,0 +1,25 @@
+body{
+    background-color: #F8F988;
+}
+
+.Heading_text{
+    font-size: 95px;
+    color: black;
+    text-align: center;
+    padding: 50px;
+}
+.img1{
+    display: inline-block;
+    border-radius: 8px;
+    text-align: center;
+    margin-left: 80px;
+}
+.img2{
+    display: inline-block;
+    border-radius: 8px;
+    text-align: center;
+    margin-left: 80px;
+}
+.conA{
+    padding: 50px;
+}

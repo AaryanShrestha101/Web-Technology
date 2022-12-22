@@ -1,0 +1,10 @@
+img{
+    border-radius: 50%;
+    width: 600px;
+    height: auto;
+    background-size: cover;
+    align-items: center;
+}
+body{
+    background-color:darkseagreen;
+}
