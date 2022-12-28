@@ -18,7 +18,15 @@ body{
     display: inline-block;
     border-radius: 8px;
     text-align: center;
-    margin-left: 80px;
+    margin-left: 250px;
+    height: 400px;
+    width: 400px;
+}
+.img3{
+    display: inline-block;
+    border-radius: 8px;
+    text-align: center;
+    margin-left: 250px;
 }
 .conA{
     padding: 50px;
