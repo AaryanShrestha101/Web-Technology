@@ -1,5 +1,5 @@
 body{
-    background-color: #F8F988;
+    background-color: rgb(192, 221, 28);
 }
 
 .Heading_text{
@@ -8,13 +8,13 @@ body{
     text-align: center;
     padding: 50px;
 }
-.img1{
+.con1{
     display: inline-block;
     border-radius: 8px;
     text-align: center;
     margin-left: 80px;
 }
-.img2{
+.con2{
     display: inline-block;
     border-radius: 8px;
     text-align: center;
@@ -22,12 +22,23 @@ body{
     height: 400px;
     width: 400px;
 }
-.img3{
+.con3{
     display: inline-block;
     border-radius: 8px;
     text-align: center;
     margin-left: 250px;
+    height: 400px;
+    width: 400px;
 }
-.conA{
-    padding: 50px;
+.bold{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.txt{
+    font-size: 20px;
+}
+.img{
+    height: 400px;
+    width: 400px;
+    border-radius: 8px;
 }
