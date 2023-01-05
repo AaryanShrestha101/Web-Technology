@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(97, 122, 97);
+}
+.text1{
+    flex: 50%;
+    margin-top: 110px;
+    margin-left: 80px;
+}
+.prod{
+    font-size: 75px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.text2{
+    margin-top: 110px;
+    margin-right: 90px;
+}
+.est{
+    font-size: 26px;
+    color: white;
+    font-weight: lighter;
+    font-family:monospace;
+}
+.wall{
+    height: 500px;
+    width:90vw;
+    margin-left: 80px;
+}

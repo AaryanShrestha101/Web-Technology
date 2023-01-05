@@ -1,0 +1,28 @@
+.grid_container{
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    background-color:rgb(48, 42, 42);
+    height: 700px;
+    width: 500px;
+    align-content: initial;
+    align-items: center;
+    border-radius: 20px;
+}
+.item_1{
+    background-color: rgb(138, 135, 135);
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    
+}
+.dis{
+    background-color: rgb(138, 135, 135);
+    width: 460px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: -80px;
+    margin-left: 20px;
+
+}
